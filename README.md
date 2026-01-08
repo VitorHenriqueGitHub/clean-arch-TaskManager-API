@@ -35,7 +35,6 @@ Siga os passos abaixo para baixar e executar a API na sua máquina.
 
 1. **Clone o repositório:**
    git clone [https://github.com/VitorHenriqueGitHub/clean-arch-TaskManager-API.git](https://github.com/VitorHenriqueGitHub/clean-arch-TaskManager-API.git)
-   cd NOME-DO-REPOSITORIO
 
 2. **Instale as dependências:**
 - [x] npm install
